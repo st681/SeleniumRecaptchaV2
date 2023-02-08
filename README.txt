@@ -1,0 +1,1 @@
+Solve RecaptchaV2 with Selenium using 2Captcha API. Invisible solve. 
